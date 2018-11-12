@@ -1,6 +1,4 @@
-#ifndef SUM_HPP
-#define SUM_HPP
-
+#include "simplendian.hpp"
 #include <cstdint>
 
 namespace sipmlendian {
@@ -17,5 +15,3 @@ bool is_big() { return probe.c[0] == 1; }
 bool is_little() { return probe.c[0] == 4; }
 
 }  // namespace sipmlendian
-
-#endif

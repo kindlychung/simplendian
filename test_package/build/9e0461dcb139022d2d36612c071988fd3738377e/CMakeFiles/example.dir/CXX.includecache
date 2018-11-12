@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaiyin/.conan/data/simplendian/1.0.0/jzien/dev/package/2d5685a99e2ff5a0d2b054bb1fbfa46781f8a46a/include/simplendian.hpp
+cstdint
+-
+
+/home/kaiyin/cProjects/simplendian/test_package/example.cpp
+iostream
+-
+simplendian.hpp
+/home/kaiyin/cProjects/simplendian/test_package/simplendian.hpp
+

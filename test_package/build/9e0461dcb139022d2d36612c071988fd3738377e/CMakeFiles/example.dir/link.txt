@@ -1,0 +1,1 @@
+/usr/bin/c++    -m64 -O3 -DNDEBUG        -rdynamic CMakeFiles/example.dir/example.cpp.o  -o bin/example  -L/home/kaiyin/.conan/data/simplendian/1.0.0/jzien/dev/package/2d5685a99e2ff5a0d2b054bb1fbfa46781f8a46a/lib -Wl,-rpath,/home/kaiyin/.conan/data/simplendian/1.0.0/jzien/dev/package/2d5685a99e2ff5a0d2b054bb1fbfa46781f8a46a/lib -lsimplendian 
