@@ -3,7 +3,7 @@ from conans import ConanFile, CMake
 
 class SimplendianConan(ConanFile):
     name = "simplendian"
-    version = "1.0.0"
+    version = "2.0.0"
     license = "MIT"
     author = "kaiyin kindlychung@gmail.com"
     url = "https://github.com/kindlychung/simplendian"

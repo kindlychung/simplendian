@@ -1,4 +1,4 @@
-#include "simplendian.hpp"
+#include "simplendian.h"
 #include <cstdint>
 
 namespace sipmlendian {
